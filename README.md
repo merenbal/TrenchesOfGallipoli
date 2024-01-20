@@ -8,3 +8,6 @@ Since my knowledge was limited, I made up for my shortcomings
 by examining the projects on YouTube. Since this is my first 
 project, I uploaded it as a starting point for myself.
 
+GAME IS MADE FOR 1920x1080 MONITOR, 
+OTHER RESOLUTIONS MIGHT HAVE ISSUES.
+
