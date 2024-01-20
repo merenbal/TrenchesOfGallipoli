@@ -1,0 +1,78 @@
+C:\C#\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe.config
+C:\C#\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe
+C:\C#\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.pdb
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.AssemblyReference.cache
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Properties.Resources.resources
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.GenerateResource.cache
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.CoreCompileInputs.cache
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.exe
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.pdb
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.GameForm.resources
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.LauncherForm.resources
+C:\C#\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.MainMenuEnglishForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe.config
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.AssemblyReference.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.GameForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.LauncherForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Properties.Resources.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.GenerateResource.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.CoreCompileInputs.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.MainMenuForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Interop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.ResolveComReference.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Files.Forms.VolumeControl.resources
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe.config
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.AssemblyReference.cache
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Interop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.ResolveComReference.cache
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.GameForm.resources
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.LauncherForm.resources
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.MainMenuForm.resources
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Files.Forms.VolumeControl.resources
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Properties.Resources.resources
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.GenerateResource.cache
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.CoreCompileInputs.cache
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe.config
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.AssemblyReference.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Interop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.ResolveComReference.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.GameForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.LauncherForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.MainMenuForm.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Files.Forms.VolumeControl.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Properties.Resources.resources
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.GenerateResource.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.CoreCompileInputs.cache
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Interop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\My Projects\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe.config
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Trenches of Gallipoli.pdb
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\Interop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.AssemblyReference.cache
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Interop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.ResolveComReference.cache
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.GameForm.resources
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.LauncherForm.resources
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.MainMenuForm.resources
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Files.Forms.VolumeControl.resources
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches_of_Gallipoli.Properties.Resources.resources
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.GenerateResource.cache
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.csproj.CoreCompileInputs.cache
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.exe
+C:\Users\perso\OneDrive\Desktop\PROJECT\1 My Projects\2 Finished\Trenches Of Gallipoli\Versions\Trenches of Gallipoli\obj\Debug\Trenches of Gallipoli.pdb

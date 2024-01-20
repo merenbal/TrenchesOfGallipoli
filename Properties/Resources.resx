@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Soldier3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier15LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier15LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier4LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier4LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier7LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier7LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier6LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier6LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier13LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier13LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier14LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier14LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier8LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier8LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier2LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier2LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier4LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier4LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier17.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier3LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier3LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier3LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier3LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier16LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier16LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier8LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier8LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier4LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier4LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier2LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier2LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGBARBED3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGBARBED3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier5LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier5LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier1LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier1LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier1LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier1LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGBARBED5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGBARBED5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier9LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier9LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier11LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier11LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainMenuBgLast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainMenuBgLast.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Flag_of_the_United_Kingdom_(3-5).svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Flag_of_the_United_Kingdom_(3-5).svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier14LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier14LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier17LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier17LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier13LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier13LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier16LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier16LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier17LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier17LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier8LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier8LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier16LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier16LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier15LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier15LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier6LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier6LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EnemyLastdirt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EnemyLastdirt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier9LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier9LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier10LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier10LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Flag_of_the_United_Kingdom_(3-5)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Flag_of_the_United_Kingdom_(3-5).svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier17LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier17LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier11LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier11LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier12LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier12LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier10LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier10LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier1LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier1LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainMenuBG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainMenuBG.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-01-01 005153" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-01-01 005153.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EnemyLastbarbed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EnemyLastbarbed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrenchBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrenchBackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier15LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier15LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier11LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier11LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGBARBED2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGBARBED2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGBARBED1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGBARBED1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier7LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier7LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGBARBED4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGBARBED4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier5LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier5LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier2LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier2LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier9LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier9LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier10LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier10LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier16.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier6LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier6LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier3LEVEL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier3LEVEL1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier7LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier7LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier13LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier13LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier12LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier12LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier14LEVEL3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier14LEVEL3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier5LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier5LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soldier12LEVELmax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soldier12LEVELmax.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MehmetEsatBulkat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MehmetEsatBulkat.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="down_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\down_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="high_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\high_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mid_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mid_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mute_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mute_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

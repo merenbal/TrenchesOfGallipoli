@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F909844-863A-4BC3-AE0B-A8628D03AA8E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Trenches_of_Gallipoli</RootNamespace>
+    <AssemblyName>Trenches of Gallipoli</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Files\Config\EnemyStats.cs" />
+    <Compile Include="Files\Forms\GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Files\Forms\GameForm.Designer.cs">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Files\Config\GameManager.cs" />
+    <Compile Include="Files\Forms\LauncherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Files\Forms\LauncherForm.Designer.cs">
+      <DependentUpon>LauncherForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Files\Forms\MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Files\Forms\MainMenuForm.Designer.cs">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Files\Config\Program.cs" />
+    <Compile Include="Files\Forms\VolumeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Files\Forms\VolumeControl.Designer.cs">
+      <DependentUpon>VolumeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Files\Config\SoldierStats.cs" />
+    <EmbeddedResource Include="Files\Forms\GameForm.resx">
+      <DependentUpon>GameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\Forms\LauncherForm.resx">
+      <DependentUpon>LauncherForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\Forms\MainMenuForm.resx">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\Forms\VolumeControl.resx">
+      <DependentUpon>VolumeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Files\Config\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGBARBED2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGBARBED3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGBARBED4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGBARBED5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyLastbarbed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyLastdirt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier1LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier1LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier1LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier2LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier2LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier2LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier3LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier3LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier3LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier4LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier4LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier4LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier5LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier5LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier5LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier6LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier6LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier6LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier7LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier7LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier7LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier8LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier8LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier8LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier9LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier9LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier9LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier10LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier10LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier10LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier11LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier11LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier11LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier12LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier12LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier12LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier13LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier13LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier13LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier14LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier14LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier14LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier15LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier15LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier15LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier16LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier16LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier16LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier17LEVEL1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier17LEVEL3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soldier17LEVELmax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrenchBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGBARBED1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_of_the_United_Kingdom_%283-5%29.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ekran görüntüsü 2024-01-01 005153.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_of_the_United_Kingdom_%283-5%29.svg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenuBG.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenuBgLast.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MehmetEsatBulkat.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\high_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mid_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mute_img.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
